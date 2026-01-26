@@ -1,1 +1,25 @@
+# IDEs
 .idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Go
+bin/
+dist/
+coverage.out
+coverage.html
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS
+Thumbs.db
+
+# Temp files
+*.tmp
